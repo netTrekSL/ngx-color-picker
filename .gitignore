@@ -1,5 +1,7 @@
 dist/
 bundles/
+.idea/
+.DS_Store
 
 package/
 npm-debug.log
